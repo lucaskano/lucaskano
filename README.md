@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World! Welcome to my profile 👋
 
-<!--
-**lucaskano/lucaskano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hi everyone](https://i.imgur.com/TIyHsDW.png)
 
-Here are some ideas to get you started:
+My name is Lucas Kano, but you can call me just Kano. I'm a Backend Developer 💻 and I'm in love with the Java world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on the development of microservices in Java and Kotlin.
+- 🌱 I’m currently learning Kotlin, Java and DevOps Cloud Architecture.
+- 👯 I'm looking to collaborate with Java and Kotlin projects.
+- ⚡ Technologies: Java, Kotlin, Javascript and TypeScript.
+
+### How to reach me 📬
+
+- LinkedIn Profile: https://www.linkedin.com/in/lucas-kan%C3%B4-de-oliveira-262425123/
